@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\курсовая\kursovaya\kursovaya\delete_tasks.h(10,8): warning C4101: mname: неиспользованная локальная переменная
+D:\курсовая\kursovaya\kursovaya\delete_tasks.h(11,8): warning C4101: mdate: неиспользованная локальная переменная
+D:\курсовая\kursovaya\kursovaya\main.cpp(56,4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\курсовая\kursovaya\kursovaya\main.cpp(57,5): error C2065: call: необъявленный идентификатор
+D:\курсовая\kursovaya\kursovaya\main.cpp(57,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "beep"
+D:\курсовая\kursovaya\kursovaya\main.cpp(57,10): error C2065: beep: необъявленный идентификатор
+D:\курсовая\kursovaya\kursovaya\main.cpp(58,5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "call"
+D:\курсовая\kursovaya\kursovaya\main.cpp(58,5): error C2065: call: необъявленный идентификатор
+D:\курсовая\kursovaya\kursovaya\main.cpp(58,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "beep"
+D:\курсовая\kursovaya\kursovaya\main.cpp(58,10): error C2065: beep: необъявленный идентификатор
+D:\курсовая\kursovaya\kursovaya\main.cpp(59,4): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

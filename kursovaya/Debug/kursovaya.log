@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\курсовая\kursovaya\kursovaya\delete_tasks.h(10,8): warning C4101: mname: неиспользованная локальная переменная
+D:\курсовая\kursovaya\kursovaya\delete_tasks.h(11,8): warning C4101: mdate: неиспользованная локальная переменная
+  kursovaya.vcxproj -> D:\курсовая\kursovaya\Debug\kursovaya.exe
